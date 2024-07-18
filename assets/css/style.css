@@ -1,0 +1,20 @@
+body{
+    background-color: #000;
+}
+
+svg{
+    width: 3rem;
+    height: 3rem;
+}
+
+footer div h1, footer div div{
+    display: inline-block;
+}
+
+footer div{
+    width: 18rem;
+}
+
+.cyanColor{
+    background-color: aqua;
+}
